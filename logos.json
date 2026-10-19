@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Nike",
+    "category": "Sports",
+    "mark": "✓",
+    "color": "#111111"
+  },
+  {
+    "name": "Apple",
+    "category": "Technology",
+    "mark": "●",
+    "color": "#222222"
+  },
+  {
+    "name": "Adidas",
+    "category": "Sports",
+    "mark": "▰",
+    "color": "#111111"
+  },
+  {
+    "name": "McDonald's",
+    "category": "Food",
+    "mark": "M",
+    "color": "#e31b23"
+  },
+  {
+    "name": "YouTube",
+    "category": "Technology",
+    "mark": "▶",
+    "color": "#ff0033"
+  },
+  {
+    "name": "Pepsi",
+    "category": "Food",
+    "mark": "◉",
+    "color": "#005cb4"
+  },
+  {
+    "name": "Puma",
+    "category": "Sports",
+    "mark": "P",
+    "color": "#111111"
+  },
+  {
+    "name": "Microsoft",
+    "category": "Technology",
+    "mark": "▦",
+    "color": "#1768d1"
+  },
+  {
+    "name": "Coca-Cola",
+    "category": "Food",
+    "mark": "C",
+    "color": "#e41e26"
+  },
+  {
+    "name": "Instagram",
+    "category": "Technology",
+    "mark": "◎",
+    "color": "#c13584"
+  },
+  {
+    "name": "Amazon",
+    "category": "Shopping",
+    "mark": "a",
+    "color": "#232f3e"
+  },
+  {
+    "name": "Netflix",
+    "category": "Entertainment",
+    "mark": "N",
+    "color": "#e50914"
+  }
+]
